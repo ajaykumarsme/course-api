@@ -1,0 +1,45 @@
+git push local code to repo
+
+
+1. git init
+
+2. git add .
+
+3. git commit -m "Your commit message"
+
+
+4.git remote add origin https://github.com/your-username/your-repository-name.git
+
+
+5 . git push -u origin master
+
+git init
+  705  git status
+  706  git add .
+  707  git status
+  708  git commit -m "course-api 1st release"
+  709  git statu
+  710  clear
+  711  git config --global user.email "**************@outlook.com"
+  712  git config --global user.name "***"
+  713  git status
+  714  clear
+  715  git commit -m "course api with spring boot and jpa"
+  716  git status
+  717  clear
+  718  git remote add origin https://github.com/ajaykumarsme/springboot-jpa-mysql.git
+  719  git push -u origin master
+  720  git remote -v
+  721  git branch
+  722  git status
+  723  git push
+  724  git push --set-upstream origin master
+  725  git config --global credential.helper cache
+  726  git push --set-upstream origin master
+  727  git push
+  728  git status
+  729  git push
+  730  git push origin main
+  731  git branch -a
+  73
+
