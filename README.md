@@ -1,3 +1,11 @@
+springboot-jpa-mysql   
+Java 17 mysql 8 
+
+
+
+
+
+
 CREATE TABLE `topic` (
   `ID` int NOT NULL AUTO_INCREMENT,
   `DESCRIPTION` varchar(255) DEFAULT NULL,
